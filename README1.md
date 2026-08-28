@@ -56,7 +56,7 @@ An end-to-end Machine Learning Operations (MLOps) pipeline demonstrating contain
                                                       | Client (curl POST /predict)           |
                                                       +---------------------------------------+
 
-📁 Repository Structure
+**📁 Repository Structure**
 
 mlops-pytorch-pipeline/
 ├── .github/workflows/ci.yml       # GitHub Actions CI syntax pipeline
@@ -84,8 +84,8 @@ mlops-pytorch-pipeline/
 ├── .gitignore
 └── README.md
 
-🚀 Setup and Execution Instructions
-Prerequisites
+**🚀 Setup and Execution Instructions**
+**Prerequisites**
 macOS / Linux environment
 
 Docker Desktop installed and running
